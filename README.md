@@ -1,2 +1,2 @@
-# farmerj95.gihub.io
+# farmerj95.github.io
 This is a test
