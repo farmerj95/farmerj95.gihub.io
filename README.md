@@ -1,7 +1,7 @@
 # farmerj95.github.io
 
 
-access here: https://farmerj95.github.io/noteTaker/
+access here: https://farmerj95.github.io/farmerj95.gihub.io/
 
 ---
 ## Description
